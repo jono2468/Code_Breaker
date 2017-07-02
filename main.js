@@ -1,4 +1,4 @@
-var code;
+var code = Math.random();
 
 function init(){
 alert("Jono is a beast");
