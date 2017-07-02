@@ -1,9 +1,9 @@
 function init(){
 alert("Jono is a beast");
-/*codegenerator();
+//codegenerator();
 }
 
-function codegenerator(){
+/*function codegenerator(){
 code = Math.floor(
 Math.round()code * 10000 + 1);
 }
