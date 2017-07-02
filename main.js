@@ -5,7 +5,7 @@ alert("Jono is a beast");
 
 /*function codegenerator(){
 code = Math.floor(
-Math.round()code * 10000 + 1);
+Math.round()(code * 10000 + 1);
 }
 
 document.getElementById("amswer")innerHTML = code;*/
